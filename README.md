@@ -16,4 +16,6 @@ CREATE TABLE IF NOT EXISTS user_data (
 
 Also Given my sql file your_database.sql
 
-Now Centralize your database connection code and reuse it in multiple files, you can create a separate PHP file for the database connection and then include or require that file in other files where you need the database connection.
+Now Centralize your database connection code and reuse it in multiple files, you can create a separate PHP file for the database connection and then include or require that file in other files where you need the database connection. 
+
+Remember to replace the placeholders (your_server_name, your_username, your_password, your_database) with your actual database credentials.
