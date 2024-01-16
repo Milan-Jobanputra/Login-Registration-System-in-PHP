@@ -21,3 +21,5 @@ Now Centralize your database connection code and reuse it in multiple files, you
 Remember to replace the placeholders (your_server_name, your_username, your_password, your_database) with your actual database credentials. 
 
 Next create register.php file for regiter users and save value in to the db.
+
+Now create a login.php file.
