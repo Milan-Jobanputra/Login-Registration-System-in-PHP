@@ -22,4 +22,6 @@ Remember to replace the placeholders (your_server_name, your_username, your_pass
 
 Next create register.php file for regiter users and save value in to the db.
 
-Now create a login.php file. To Check the user input id password valid or not from db.
+Now create a login.php file. To Check the user input id password valid or not from db. 
+
+Dont forget to include require_once('db.php'); to add in all files for db connectivity.
