@@ -27,3 +27,7 @@ Now create a login.php file. To Check the user input id password valid or not fr
 Dont forget to include require_once('db.php'); to add in all files for db connectivity.
 
 Now Last at we create, Dashborad.php for welcome user file and Logout file for the end the session.
+
+Remember to replace the placeholders (your_server_name, your_username, your_password, your_database) with your actual database credentials.
+
+This is a basic example, and you might want to add more security measures, such as input validation, error handling, and secure password storage.
